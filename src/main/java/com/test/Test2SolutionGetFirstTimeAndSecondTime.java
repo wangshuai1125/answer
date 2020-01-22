@@ -3,7 +3,7 @@ package com.test;
 /**
  * Date:2020-01-22
  * Author: wangyisai
- * Desc:
+ * Desc:  1111
  */
 public class Test2SolutionGetFirstTimeAndSecondTime {
     /**
